@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Youtube ads
 // @namespace    https://github.com/KyoTranKMA/Youtube-ads-skipper
-// @version      0.2
+// @version      0.1
 // @description  try to take over the world!
-// @author       https://github.com/linhll
+// @author       https://github.com/KyoTranKMA/Youtube-ads-skipper
 // @match        https://www.youtube.com/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
